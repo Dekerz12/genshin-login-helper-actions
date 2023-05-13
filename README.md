@@ -8,7 +8,8 @@ How to use:
 <br />
 1. Fork this repo
 
-2. Getting Cookie
+2. Getting Cookie<br />
+    
    2.1 Go to the Daily Check-In event website https://act.hoyolab.com/ys/event/signin-sea-v3/index.htmlact_id=e202102251931481&mhy_auth_required=true&mhy_presentation_style=fullscreen
    
    2.2 Log in with your MiHoYo/Genshin Impact account.
