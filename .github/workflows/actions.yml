@@ -1,7 +1,8 @@
 name: run genshin-os.py
 
 on:
-  workflow_dispatch
+ schedule:
+  - cron: '1 00 * * *'
 
 jobs:
   build:
